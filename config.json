@@ -1,0 +1,17 @@
+{
+    "project_name": "sample-project",
+
+    "source_directory": "C:/Users/sakshi/OneDrive/Documents/automated-backup-google-drive-project/sample-project",
+
+    "backup_directory": "C:/Users/sakshi/backups",
+
+    "gdrive_remote": "gdrive:BackupFolder",
+
+    "daily_retention": 7,
+
+    "weekly_retention": 4,
+
+    "monthly_retention": 3,
+
+    "webhook_url": "https://webhook.site/4cc3992f-11a4-4165-af82-6681b1081833"
+}
